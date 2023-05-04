@@ -47,6 +47,11 @@ padding-left: 15px;
 padding-right: 15px;
 }
 
+.hero-section {
+    padding-top: 188px;
+    padding-bottom: 188px;
+}
+
 .section{
     padding-top: 120px;
     padding-bottom: 120px;
@@ -172,7 +177,7 @@ padding-right: 15px;
 .menu-list{
     display: flex;
     align-items: center;
-    column-gap: 40px;
+    margin-right: 40px;
 }
 
 .menu-link{
