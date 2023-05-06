@@ -72,7 +72,6 @@ padding-right: 15px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    align-items: center;
     letter-spacing: 0.04em;
     color: #FFFFFF;
     background-color: var(--primary-color);
@@ -383,6 +382,9 @@ margin-right: 0;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
+}
+
+.portfolio-list-item {
     flex-basis: calc((100% - 48px) /3);
 }
 
